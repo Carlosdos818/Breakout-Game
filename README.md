@@ -16,5 +16,5 @@ In Breakout, a layer of bricks lines the top third of the screen and the goal is
 
 * The highest score achievable for one player is 448; this is done by eliminating one screen of bricks.
 
-**Wireframe**
-![layout wireframe] (https://upload.wikimedia.org/wikipedia/en/c/cd/Breakout_game_screenshot.png?20200131000248)
+***Wireframe***
+![layout wireframe](images/Breakout_game_pic.png)
