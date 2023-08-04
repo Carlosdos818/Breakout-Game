@@ -28,4 +28,5 @@ As a user, I want the ability to...
 * being able to play two screeens of bricks to add up to 896 points for the highest score.
 
 **Wireframe**
+
 ![layout wireframe](images/Breakout_game_pic.png)
