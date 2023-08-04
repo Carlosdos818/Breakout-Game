@@ -2,11 +2,13 @@
 
 
 **Overview**
+
 This is a game that brings me back to my childhood.
 
 In Breakout, a layer of bricks lines the top third of the screen and the goal is to destroy them all by repeatedly bouncing a ball off a paddle into them.
 
 **User Stories**
+
 As a user, I want the ability to...
 
 * to see eight rows of bricks with two rows each of a different color.
@@ -20,6 +22,7 @@ As a user, I want the ability to...
 * being able to see the highest score achievable for one player wich is 448; this is done by eliminating one screen of bricks.
 
 **Bonus Stories(if time is available)**
+
 * a better design on the layout
 * display bricks with better graphics
 * being able to play two screeens of bricks to add up to 896 points for the highest score.
